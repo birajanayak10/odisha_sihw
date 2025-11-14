@@ -16,7 +16,6 @@
 import React from "react";
 import Logo from "../../assets/logo.png";
 import { SlideBottom } from "../../Utility/animation";
-
 import { motion } from "framer-motion";
 
 const Navbar = () => {
